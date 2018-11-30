@@ -30,7 +30,7 @@
 	</dependencies>
 	<build>
 		<finalName>InternetListener</finalName>
-		<sourceDirectory>src</sourceDirectory>
+		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
